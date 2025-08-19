@@ -1,4 +1,4 @@
-nbs/results/
+nbs/models/
 nbs/wandb/
 
 # Byte-compiled / optimized / DLL files
